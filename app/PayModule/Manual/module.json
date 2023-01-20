@@ -1,0 +1,15 @@
+{
+    "name": "Manual",
+    "alias": "Manual",
+    "description": "Manual Wallet Module for TokenLite to accept payments from contributors.",
+    "status": true,
+    "type": "core",
+    "requires": {
+		"app": "^1.6.0",
+		"laravel": "~9.0"
+	},
+	"author": "Softnio",
+	"package": "TokenLite",
+	"version": "1.4.2",
+	"update": "20221129"
+}
